@@ -18,15 +18,9 @@
 </html>
 ```
 
-- [x] ldafjgakljdh
+- [x] Misión cumplida
 
 > Grazas por visitarme
 
 > Visita tamén [i-rochiño](https://irocho.wordpress.com)
-```mermaid
-graph LR
-A[Métodos DNS] -- Link text --> B((Iterativo))
-A --> C(Recursivo)
-B --> D{Rhombus}
-C --> D
-```
+
