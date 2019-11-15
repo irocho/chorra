@@ -1,4 +1,7 @@
 # O meu primeiro repo
+
+![Fallou a imaxe](/logo.png)
+
 ## Aprendo Markdown
 1. listas numeradas e _**non**_ numeradas
 1. títulos
@@ -14,6 +17,8 @@
 </body>
 </html>
 ```
+
+- [x] ldafjgakljdh
 
 > Grazas por visitarme
 
